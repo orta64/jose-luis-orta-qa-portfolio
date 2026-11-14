@@ -1,0 +1,14 @@
+{
+  "name": "carmen-digital-qa-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "QA case study and non-destructive Playwright example for Carmen Digital's bilingual assistant landing page",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "typescript": "^5.9.0"
+  }
+}
+
